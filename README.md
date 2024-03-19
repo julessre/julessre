@@ -3,7 +3,8 @@
 <h3 align="center">Passionate Frondend-Developer with project management and product owner background</h3>
 
 <br />
- 🔭 I’m currently working on my <a href="[https://github.com/julessre/books-inspo-app]" target="blank">book inspiration react native app</a>, where you can find three different books per day. 
+ 🔭 I’m currently working on my <a href="[https://github.com/julessre/books-inspo-app]" target="blank">book inspiration react native app</a>, where you can find three different books per day.
+ 
 
  ✨ I'm passionate about UI/UX design. 
 
