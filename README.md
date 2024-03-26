@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on my <a href="https://github.com/julessre/book-inspo-app" target="blank">book inspiration react native app</a>, where you can find three different books per day.
 
-✨ I'm passionate about Frondtend and UI/UX design 
+✨ I'm passionate about Frontend and UI/UX design 
 
 🎓 (soon to be) UpLeveled bootcamp graduate
 
