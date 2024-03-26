@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi there, I'm Julia</h1>
+<h1 align="center">Hiii there, I'm Julia</h1>
 <h3 align="center">Passionate Frondend-Developer with project management and product owner background</h3>
 
 
 
 
-🔭 I’m currently working on my <a href="[https://github.com/julessre/books-inspo-app]" target="blank">book inspiration react native app</a>, where you can find three different books per day.
+🔭 I’m currently working on my <a href="[https://github.com/julessre/book-inspo-app]" target="blank">book inspiration react native app</a>, where you can find three different books per day.
 
 ✨ I'm passionate about Frondtend and UI/UX design 
 
