@@ -9,7 +9,7 @@
 
 ✨ I'm passionate about Frontend and UI/UX design 
 
-🎓 (soon to be) UpLeveled bootcamp graduate
+🎓 UpLeveled bootcamp graduate
 
 👨‍💻 All of my projects are available in my <a href="https://github.com/julessre/" target="blank">Github Profile</a>.
 
