@@ -13,8 +13,7 @@
 
 👨‍💻 All of my projects are available in my <a href="https://github.com/julessre/" target="blank">Github Profile</a>.
 
-📫 You can reach me here:<a href="[mailto:jules.rechi@gmail.com]" target="blank"> **jules.rechi@gmail.com**</a>
-or on <a href="https://linkedin.com/in/julia-rechensteiner" target="blank">**LinkedIn**</a>
+📫 You can reach me here:<a href="https://linkedin.com/in/julia-rechensteiner" target="blank">**LinkedIn**</a>
 
 
 <br>
